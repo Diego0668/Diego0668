@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=Diego0668&show_icons=true&count_private=true&hide_border=true&title_color=066699&icon_color=066699&text_color=066699&bg_color=0d1117" alt="Diego Augusto github stats" />
-   <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego0668&layout=compact&hide_border=true&title_color=066699&text_color=066699&bg_color=0d1117" />
+   <img width="50%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego0668&layout=compact&hide_border=true&title_color=066699&text_color=066699&bg_color=0d1117" />
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoo_au/)
